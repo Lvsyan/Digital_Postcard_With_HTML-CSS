@@ -1,3 +1,11 @@
+Explicación del ejercicio:
+
+- Creación de html y css y enlazando el css para dejarlo todo listo antes de empezar
+
+- Escribir todo lo necesario del html para tener la estructura de lo que necesito, tanto de imagenes, h1 como parrafos
+
+- Después de dejarlo todo listo en cuanto a estructura, organizo y preparo el css para dejarlo como me indica en el ejercicio
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
